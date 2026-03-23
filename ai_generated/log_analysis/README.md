@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # ログ解析（ユーザーごとの合計時間）
 
+解答：[Main.java](Main.java)
+
 <!-- omit in toc -->
 ### 目次
 

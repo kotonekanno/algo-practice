@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # 注文金額の計算
 
+解答：[Main.java](Main.java)
+
 <!-- omit in toc -->
 ### 目次
 
